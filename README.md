@@ -2,7 +2,7 @@
 
 Welcome to the **Data Visualization** repository!
 
-This project contains a collection of **cleaned datasets** along with **visualizations** created using tools like **Python** and **Tableau**. The objective is to turn raw data into compelling visual stories and meaningful insights.
+This project contains a collection of **cleaned datasets** along with **visualizations** created using tools like **Python**. The objective is to turn raw data into compelling visual stories and meaningful insights.
 
 ---
 
@@ -14,7 +14,6 @@ data-visualization/
 ├── datasets/           # Cleaned CSV files
 ├── notebooks/          # Jupyter notebooks with visualizations
 ├── visuals/            # Exported charts and images
-├── tableau/            # Tableau dashboards (.twbx or PDF)
 └── README.md
 ```
 
@@ -32,7 +31,6 @@ data-visualization/
 ## 🛠 Tools & Technologies
 
 - **Python Libraries**: pandas, matplotlib, seaborn, plotly
-- **Tableau**: Dashboards and storyboards
 - **Jupyter Notebook**: For analysis and coding
 - **Git & GitHub**: Version control and collaboration
 
@@ -57,8 +55,7 @@ This repository is a personal project for:
    ```
 
 2. Browse the `notebooks/` folder for Python code and visualizations.
-3. View Tableau dashboards in the `tableau/` folder.
-4. Check the `visuals/` folder for static images of graphs.
+3. Check the `visuals/` folder for static images of graphs.
 
 ---
 
